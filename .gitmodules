@@ -1,0 +1,3 @@
+[submodule "PRNGJS"]
+	path = PRNGJS
+	url = git@github.com:martian17/PRNGJS.git
